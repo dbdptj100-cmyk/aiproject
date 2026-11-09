@@ -164,3 +164,4 @@ st.dataframe(
 st.caption(
     "※ 본 자료는 국가별 MBTI 비율을 시각화한 참고용 데이터입니다."
 )
+countriesMBTI_16types.csv
